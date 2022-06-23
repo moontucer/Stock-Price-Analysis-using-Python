@@ -1,7 +1,7 @@
 Stock Price Analysis using Python
 
 
-Finance-related analysis of Amazon $AMZN and Microsoft $MSFT stock prices using Python libraries and Jupyter.
+Finance-related analysis of $AMZN and $MSFT stock prices using Python libraries and Jupyter.
 
 
 Visit https://bit.ly/3HILFTa for:
