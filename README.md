@@ -2,7 +2,7 @@ Stock Price Analysis using Python
 
     
 Finance-related analysis of $AMZN and $MSFT stocks
-
+ 
 
 Visit https://bit.ly/3HILFTa for:
 
