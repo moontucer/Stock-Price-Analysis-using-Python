@@ -1,6 +1,6 @@
 Stock Price Analysis using Python
 
-   
+    
 Finance-related analysis of $AMZN and $MSFT stocks
 
 
